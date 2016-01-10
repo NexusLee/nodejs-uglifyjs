@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-uglifyjs2",
+  "version": "0.0.1",
+  "description": "uglifyjs2",
+  "author": "Nexus Lee",
+  "dependencies": {
+    "uglify-js": "^2.6.1"
+  }
+}
